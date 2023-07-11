@@ -7,3 +7,5 @@ This script unlocks the internet on Mac while tethering via MTS.
 git clone https://github.com/tosfaq/mts_tethering.git
 chmod +x mts_tethering/unlock.sh ; ./mts_tethering/unlock.sh
 ```
+
+> sudo rights might be required to switch TTL/hop limit
